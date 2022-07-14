@@ -8,9 +8,3 @@
 
 let x = 1;
 console.log(x);
-
-let y = 2;
-console.log(Y);
-
-let z = 3;
-console.log(3);
