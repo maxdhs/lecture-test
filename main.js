@@ -8,3 +8,6 @@
 
 let x = 1;
 console.log(x);
+
+let y = 2;
+console.log(Y);
